@@ -5,7 +5,8 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
- 
+
+ [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
  [![My Skills](https://skillicons.dev/icons?i=js&perline=1)](https://skillicons.dev)
  [![My Skills](https://skillicons.dev/icons?i=ts&perline=1)](https://skillicons.dev)
  [![My Skills](https://skillicons.dev/icons?i=react&perline=1)](https://skillicons.dev)
@@ -25,7 +26,7 @@
  [![My Skills](https://skillicons.dev/icons?i=vercel&perline=1)](https://skillicons.dev)
  [![My Skills](https://skillicons.dev/icons?i=postman&perline=1)](https://skillicons.dev)
  [![My Skills](https://skillicons.dev/icons?i=jenkins&perline=1)](https://skillicons.dev)
- 
+
  
 <br>
  
