@@ -6,7 +6,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 
- [![My Skills](https://skillicons.dev/icons?i=js,html,css,python,c,c++,mjml)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=js,html,css,python,c)](https://skillicons.dev)
 
 
 
